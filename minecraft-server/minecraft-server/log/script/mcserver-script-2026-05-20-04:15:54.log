@@ -1,0 +1,15 @@
+May 20 03:14:07.777 mcserver: START: PASS: Started el mas capito
+May 20 03:14:07.884 mcserver: START: PASS: Started el mas capito
+May 20 03:14:07.913 mcserver: START: INFO: LinuxGSM version: v26.1.0
+May 20 03:14:07.916 mcserver: START: PASS: core_exit.sh exiting with code: 0
+May 20 03:19:09.050 mcserver: CORE: PASS: Using cached IP as public IP address
+May 20 03:19:12.045 mcserver: CONSOLE: PASS: Console accessed
+May 20 03:51:03.730 mcserver: CORE: PASS: Using cached IP as public IP address
+May 20 03:51:06.578 mcserver: CONSOLE: PASS: Console accessed
+May 20 04:14:58.317 mcserver: CONSOLE: PASS: Console closed
+May 20 04:14:58.341 mcserver: CONSOLE: INFO: LinuxGSM version: v26.1.0
+May 20 04:14:58.347 mcserver: CONSOLE: PASS: core_exit.sh exiting with code: 0
+May 20 04:15:54.621 mcserver: CORE: PASS: Using cached IP as public IP address
+May 20 04:15:56.911 mcserver: START: PASS: Using cached IP as public IP address
+May 20 04:15:59.533 mcserver: START: PASS: Using cached IP as public IP address
+May 20 04:16:00.177 mcserver: START: INFO: Rotating log files

@@ -1,0 +1,18 @@
+May 11 21:26:00.407 mcserver: START: PASS: Started el mas capito
+May 11 21:26:00.514 mcserver: START: PASS: Started el mas capito
+May 11 21:26:00.529 mcserver: START: INFO: LinuxGSM version: v26.1.0
+May 11 21:26:00.531 mcserver: START: PASS: core_exit.sh exiting with code: 0
+May 11 21:27:22.529 mcserver: CORE: PASS: Using cached IP as public IP address
+May 11 21:27:23.145 mcserver: CORE: PASS: Downloading command_console.sh...
+May 11 21:27:24.957 mcserver: CONSOLE: PASS: Console accessed
+May 20 02:43:58.437 mcserver: CORE: INFO: Querying http://ip-api.com/json for public IP address
+May 20 02:43:59.333 mcserver: CORE: PASS: Queried http://ip-api.com/json for public IP address
+May 20 02:44:04.867 mcserver: START: PASS: Using cached IP as public IP address
+May 20 02:44:10.212 mcserver: START: PASS: Using cached IP as public IP address
+May 20 02:44:10.954 mcserver: START: INFO: Removing logs older than 7 days
+/workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/minecraft-server/log/script/mcserver-script-2026-05-11-21:25:52.log
+/workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/minecraft-server/log/console/mcserver-console.log
+/workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/minecraft-server/log/console/mcserver-console-2026-05-11-21:25:52.log
+/workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/minecraft-server/serverfiles/logs/latest.log
+May 20 02:44:11.097 mcserver: START: Removed 4 log files
+May 20 02:44:11.704 mcserver: START: INFO: Rotating log files

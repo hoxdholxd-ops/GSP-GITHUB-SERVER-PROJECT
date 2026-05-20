@@ -1,0 +1,78 @@
+Starting net.fabricmc.loader.impl.game.minecraft.BundlerClassPathCapture
+[02:44:18] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.19.2
+[02:44:18] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.19.2
+	   \-- mixinextras 0.5.4
+	- java 25
+	- minecraft 1.21.11
+[02:44:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/minecraft-server/serverfiles/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.joml.MemUtil$MemUtilUnsafe (file:/workspaces/GSP-GITHUB-SERVER-PROJECT/minecraft-server/minecraft-server/serverfiles/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar)
+WARNING: Please consider reporting this to the maintainers of class org.joml.MemUtil$MemUtilUnsafe
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[02:44:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:44:26] [main/INFO]: Loaded 1470 recipes
+[02:44:26] [main/INFO]: Loaded 1584 advancements
+[02:44:26] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[02:44:26] [Server thread/INFO]: Loading properties
+[02:44:26] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:26] [Server thread/INFO]: Generating keypair
+[02:44:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:44:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:44:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:44:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:44:27] [Server thread/INFO]: Preparing level "world"
+[02:44:27] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:44:27] [Server thread/INFO]: Time elapsed: 13 ms
+[02:44:27] [Server thread/INFO]: Done (0.367s)! For help, type "help"
+[02:44:27] [Server thread/INFO]: Starting GS4 status listener
+[02:44:27] [Server thread/INFO]: Thread Query Listener started
+[02:44:27] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[02:45:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:46:28] [Server thread/INFO]: Melody849[/127.60.148.33:45219] logged in with entity id 52 at (331.96106745800677, 65.0, 66.69999998807907)
+[02:46:29] [Server thread/INFO]: Melody849 joined the game
+[02:48:31] [Server thread/INFO]: Melody849 has made the advancement [Stone Age]
+[02:49:52] [Server thread/INFO]: Melody849 has made the advancement [Getting an Upgrade]
+[02:50:27] [Server thread/INFO]: Melody849 has made the advancement [Monster Hunter]
+[02:53:05] [Server thread/INFO]: Melody849 lost connection: Disconnected
+[02:53:05] [Server thread/INFO]: Melody849 left the game
+[02:54:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:55:38] [Server thread/INFO]: Melody849[/127.60.148.33:46533] logged in with entity id 1566 at (327.8056770433237, 63.0, 67.61353431211256)
+[02:55:38] [Server thread/INFO]: Melody849 joined the game
+[02:55:43] [Server thread/INFO]: Melody849 lost connection: Disconnected
+[02:55:43] [Server thread/INFO]: Melody849 left the game
+[02:55:44] [Server thread/INFO]: Melody849[/127.60.148.33:41703] logged in with entity id 2200 at (327.8056770433237, 63.0, 67.61353431211256)
+[02:55:44] [Server thread/INFO]: Melody849 joined the game
+[02:55:45] [Server thread/INFO]: Melody849 lost connection: Disconnected
+[02:55:45] [Server thread/INFO]: Melody849 left the game
+[02:56:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:57:29] [Server thread/INFO]: Melody849[/127.60.148.33:46983] logged in with entity id 2584 at (327.8056770433237, 63.0, 67.61353431211256)
+[02:57:29] [Server thread/INFO]: Melody849 joined the game
+[02:59:37] [Server thread/INFO]: JosaYT123[/127.115.189.227:37381] logged in with entity id 3693 at (-0.5, 71.0, 7.5)
+[02:59:37] [Server thread/INFO]: JosaYT123 joined the game
+[02:59:47] [Server thread/INFO]: [Not Secure] <Melody849> alfin
+[02:59:57] [Server thread/INFO]: [Not Secure] <JosaYT123> me costó un poquito
+[03:00:08] [Server thread/INFO]: [Not Secure] <Melody849> xd
+[03:01:12] [Server thread/INFO]: [Not Secure] <Melody849> 30 fps
+[03:01:23] [Server thread/INFO]: [Not Secure] <Melody849> pera quito los shader
+[03:01:32] [Server thread/INFO]: [Not Secure] <Melody849> ya
+[03:03:17] [Server thread/INFO]: [Not Secure] <Melody849> w
+[03:03:26] [Server thread/INFO]: [Not Secure] <Melody849> ya me mandaron a dormir xd
+[03:03:29] [Server thread/INFO]: [Not Secure] <JosaYT123> busquemos una aldea m mejor
+[03:04:42] [Server thread/INFO]: [Not Secure] <Melody849> alla hay una planilla
+[03:04:56] [Server thread/INFO]: [Not Secure] <JosaYT123> vamos
+[03:04:56] [Server thread/INFO]: [Not Secure] <Melody849> ay mas suerte en planillas
+[03:05:15] [Server thread/INFO]: [Not Secure] <JosaYT123> si vamos
+[03:05:19] [Server thread/INFO]: [Not Secure] <JosaYT123> te sigo
+[03:05:24] [Server thread/INFO]: [Not Secure] <Melody849> ok
+[03:07:06] [Server thread/INFO]: [Not Secure] <Melody849> ya llegamosw
+[03:08:39] [Server thread/INFO]: [Not Secure] <Melody849> ya me voy
+[03:08:43] [Server thread/INFO]: Melody849 was slain by JosaYT123
+[03:08:47] [Server thread/INFO]: JosaYT123 has made the advancement [Getting an Upgrade]
+[03:08:51] [Server thread/INFO]: JosaYT123 has made the advancement [Stone Age]
+[03:08:56] [Server thread/INFO]: [Not Secure] <Melody849> me dicen q la apge ya mi pa
+[03:09:05] [Server thread/INFO]: [Not Secure] <JosaYT123> pipi
+[03:09:09] [Server thread/INFO]: [Not Secure] <Melody849> mañana xd
+[03:09:13] [Server thread/INFO]: [Not Secure] <JosaYT123> jugamos mañana
+[03:09:19] [Server thread/INFO]: [Not Secure] <Melody849> si
